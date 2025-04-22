@@ -8,7 +8,7 @@ In the competitive banking industry, retaining customers is crucial. This projec
 We approach this as a binary classification problem (Exited = 1, Stayed = 0).
 
 The method involves:
-    1. Preprocessing customer data (encoding + scaling)
+    /n1. Preprocessing customer data (encoding + scaling)
     2. Building an Artificial Neural Network with PyTorch
     3. Training with class weighting to handle imbalance
     4. Evaluating using accuracy, confusion matrix, precision, recall, and F1-score
