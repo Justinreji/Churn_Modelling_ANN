@@ -4,7 +4,7 @@ This project uses a custom Artificial Neural Network (ANN) in PyTorch to build a
 ## Story:
 In the competitive banking industry, retaining customers is crucial. This project aims to predict whether a customer will exit (churn) based on their profile and behavior. Using an artificial neural network, the model helps banks proactively identify at-risk customers, enhancing retention strategies.
 
-🔍 Methodology:
+## Methodology:
 We approach this as a binary classification problem (Exited = 1, Stayed = 0).
 
 The method involves:
@@ -15,7 +15,7 @@ The method involves:
     4. Evaluating using accuracy, confusion matrix, precision, recall, and F1-score
     5. Customizing the decision threshold to better catch churners
 
-📊 The Data:
+## The Data:
 Dataset: Churn_Modelling.csv
   
   Contains 10,000 customer records from a bank.
@@ -26,7 +26,7 @@ Dataset: Churn_Modelling.csv
     3. Activity: Tenure, Number of Products, Credit Card status, Activity status
     4. Target: Exited (0 = Stayed, 1 = Exited)
 
-🧮 Features Used:
+## Features Used:
 
     1. CreditScore:	Customer’s credit score
     2. Geography: Country (categorical)
@@ -39,7 +39,7 @@ Dataset: Churn_Modelling.csv
     9. IsActiveMember: 1 if the customer is an active member
     10. EstimatedSalary: Estimated yearly salary
 
-🔧 Libraries Used:
+## Libraries Used:
 
     1. pandas: Data manipulation
     2. torch, torch.nn:	Neural network creation & training
