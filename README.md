@@ -67,3 +67,8 @@ Confusion Matrix Plot:
 
 ![Confusion_matrix_Ann](https://github.com/user-attachments/assets/533cc6be-bdc4-4686-92e0-bacfc25ae849)
 
+Classification Report:
+
+![image](https://github.com/user-attachments/assets/7f1e7e62-4408-4bb7-a834-70c7451f3ccb)
+
+
