@@ -21,10 +21,10 @@ df = pd.read_csv("Churn_Modelling.csv")
 df.drop(columns=["RowNumber", "CustomerId", "Surname"], inplace=True)
 
 # Display dataset structure
-print("\nDataset Info:")
-print(df.info())
 print("\nFirst 5 Rows:")
 print(df.head())
+print("\nDataset Info:")
+print(df.info())
 print("\nCheck for null values")
 print(df.isnull().sum())
 
