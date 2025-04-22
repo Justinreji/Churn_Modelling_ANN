@@ -42,6 +42,6 @@ Dataset: Churn_Modelling.csv
 ## Libraries Used:
 
     1. pandas: Data manipulation
-    2. torch, torch.nn:	Neural network creation & training
+    2. torch, torch.nn: Neural network creation & training
     3. sklearn:	Preprocessing, splitting, metrics
     4. matplotlib.pyplot: Plotting a confusion matrix
