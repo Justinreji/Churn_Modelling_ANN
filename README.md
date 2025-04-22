@@ -28,15 +28,14 @@ Dataset: Churn_Modelling.csv
 
 🧮 Features Used:
 
-Feature	Description
-CreditScore	Customer’s credit score
-Geography	Country (categorical)
-Gender	Male/Female (categorical)
-Age	Customer’s age
-Tenure	Years with the bank
-Balance	Account balance
-NumOfProducts	Number of bank products used
-HasCrCard	1 if customer has a credit card
-IsActiveMember	1 if customer is active
-EstimatedSalary	Estimated yearly salary
+    1. CreditScore:	Customer’s credit score
+    2. Geography: Country (categorical)
+    3. Gender: Male/Female (categorical)
+    4. Age: Customer’s age
+    5. Tenure: Years with the bank
+    6. Balance: Account balance
+    7. NumOfProducts: Number of bank products used
+    8. HasCrCard: 1 if customer has a credit card
+    9. IsActiveMember: 1 if the customer is an active member
+    10. EstimatedSalary: Estimated yearly salary
 
