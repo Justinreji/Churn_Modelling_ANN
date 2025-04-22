@@ -69,7 +69,7 @@ Confusion Matrix Plot:
 
 Classification Report:
 
-Precision: Of all customers predicted to churn, how many actually churned? (Focuses on False Positives)
+/*Precision*/: Of all customers predicted to churn, how many actually churned? (Focuses on False Positives)
 
 Recall: Of all customers who actually churned, how many did we correctly identify? (Focuses on False Negatives)
 
