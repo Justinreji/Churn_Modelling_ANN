@@ -17,8 +17,10 @@ The method involves:
 
 📊 The Data:
 Dataset: Churn_Modelling.csv
+  
   Contains 10,000 customer records from a bank.
   Each row represents a customer with:
+    
     1. Demographic: Geography, Gender, Age
     2. Financial: Credit Score, Balance, Estimated Salary
     3. Activity: Tenure, Number of Products, Credit Card status, Activity status
