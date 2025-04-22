@@ -69,19 +69,19 @@ Confusion Matrix Plot:
 
 Classification Report:
 
-/*Precision*/: Of all customers predicted to churn, how many actually churned? (Focuses on False Positives)
+*Precision*: Of all customers predicted to churn, how many actually churned? (Focuses on False Positives)
 
-Recall: Of all customers who actually churned, how many did we correctly identify? (Focuses on False Negatives)
+*Recall*: Of all customers who actually churned, how many did we correctly identify? (Focuses on False Negatives)
 
-F1-Score: Harmonic mean of precision and recall (Balances both)
+*F1-Score*: Harmonic mean of precision and recall (Balances both)
 
-Support: Number of actual occurrences of each class in the dataset
+*Support*: Number of actual occurrences of each class in the dataset
 
-Accuracy: Overall, how many predictions were correct?
+*Accuracy*: Overall, how many predictions were correct?
 
-Macro Avg: Average of precision, recall, F1 across classes (treats all classes equally)
+*Macro Avg*: Average of precision, recall, F1 across classes (treats all classes equally)
 
-Weighted Avg: Average weighted by class support (takes class imbalance into account)
+*Weighted Avg*: Average weighted by class support (takes class imbalance into account)
 
 ![image](https://github.com/user-attachments/assets/7f1e7e62-4408-4bb7-a834-70c7451f3ccb)
 
