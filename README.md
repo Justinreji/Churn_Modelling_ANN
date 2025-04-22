@@ -46,6 +46,14 @@ Dataset: Churn_Modelling.csv
     3. sklearn:	Preprocessing, splitting, metrics
     4. matplotlib.pyplot: Plotting a confusion matrix
 
+## Data Exploration:
+
+![image](https://github.com/user-attachments/assets/cb6165ca-0d9a-48a2-8b02-2530814b39a1)
+
+## Check for Null Values:
+
+![image](https://github.com/user-attachments/assets/e117e95b-57e1-45f9-91fd-8097dcd8f4a0)
+
 
 ![Confusion_matrix_Ann](https://github.com/user-attachments/assets/533cc6be-bdc4-4686-92e0-bacfc25ae849)
 
