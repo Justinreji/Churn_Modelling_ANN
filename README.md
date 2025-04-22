@@ -1,7 +1,7 @@
 # Churn Modelling using Artificial Neural Network
 This project uses a custom Artificial Neural Network (ANN) in PyTorch to build a customer churn prediction model. The goal is to classify whether a bank customer will exit or stay based on various demographic and financial features.
 
-🧩 Story:
+##🧩 Story:
 In the competitive banking industry, retaining customers is crucial. This project aims to predict whether a customer will exit (churn) based on their profile and behavior. Using an artificial neural network, the model helps banks proactively identify at-risk customers, enhancing retention strategies.
 
 🔍 Methodology:
