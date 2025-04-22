@@ -16,7 +16,7 @@ The method involves:
     5. Customizing the decision threshold to better catch churners
 
 ## The Data:
-Dataset: Churn_Modelling.csv
+Dataset: https://www.kaggle.com/datasets/filippoo/deep-learning-az-ann/data
   
   Contains 10,000 customer records from a bank.
   Each row represents a customer with:
