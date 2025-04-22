@@ -70,13 +70,27 @@ Confusion Matrix Plot:
 Classification Report:
 
 Precision: Of all customers predicted to churn, how many actually churned? (Focuses on False Positives)
+
 Recall: Of all customers who actually churned, how many did we correctly identify? (Focuses on False Negatives)
+
 F1-Score: Harmonic mean of precision and recall (Balances both)
+
 Support: Number of actual occurrences of each class in the dataset
+
 Accuracy: Overall, how many predictions were correct?
+
 Macro Avg: Average of precision, recall, F1 across classes (treats all classes equally)
+
 Weighted Avg: Average weighted by class support (takes class imbalance into account)
 
 ![image](https://github.com/user-attachments/assets/7f1e7e62-4408-4bb7-a834-70c7451f3ccb)
+
+Accuracy: 0.82 → 82% of all predictions are correct.
+
+Exited Recall: 0.70 → You correctly identify 70% of churners.
+
+Exited Precision: 0.55 → Of those you predict will churn, 55% actually do.
+
+Stayed Precision/Recall: Very high, meaning the model is quite good at identifying non-churners.
 
 
