@@ -61,8 +61,8 @@ Dataset: Churn_Modelling.csv
 ![image](https://github.com/user-attachments/assets/26c53089-f327-4fc1-9398-23fc84e2cacb)
 ![image](https://github.com/user-attachments/assets/780ca991-e1d5-4be7-8898-0996cc5b04c4)
 
+## Final Evaluation:
 
-
-
-![Confusion_matrix_Ann](https://github.com/user-attachments/assets/533cc6be-bdc4-4686-92e0-bacfc25ae849)
+    Confusion Matrix Plot:
+    ![Confusion_matrix_Ann](https://github.com/user-attachments/assets/533cc6be-bdc4-4686-92e0-bacfc25ae849)
 
